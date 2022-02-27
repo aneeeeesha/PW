@@ -1,0 +1,50 @@
+@import url(‘https://fonts.googleapis.com/css?family=Poppins’);
+body{
+    background-image: url(bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding :20px;
+
+}
+.regform{
+    width: 800px;
+    background-color: rgb(255,255,255,0.3);
+    margin : auto;
+    color : #FFFFFF;
+    text-align: "center";
+    border-radius: 55px, 15px, 55px, 0px;
+    padding: 10px, 0px, 10px, 0px;
+    font-family: Poppins;
+    
+}
+
+.main{
+    background-color: rgb(255,255,255,0.5);
+    margin:auto;
+    width: 800px;
+    perspective: 1px;
+    border-radius: 115px;
+    padding :30px;
+}
+
+.name{
+    padding: 80px;
+    font-family: Poppins;
+    color:black;
+}
+.name1{
+    padding :80px;
+}
+/* #name{
+    height: 100px;
+    width:100%;
+} */
+.h1{
+    font-family: Poppins;
+    color:black; 
+}
+
+#ip{
+    border-radius: 15px;
+}
